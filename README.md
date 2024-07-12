@@ -41,7 +41,8 @@ kubectl get services
 ```
 
  
-```sh
+
 now we can browse with the following ip
+```sh
 172.19.0.2:30080
 ```
